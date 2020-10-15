@@ -1,2 +1,2 @@
 # DRO-Deep-Kernel-Multiple-Instance-Learning
-Code for the paper AISTATS2021
+This is the code for the paper "Distributionally Robust Optimization for Deep Kernel \\Multiple Instance Learning". 
