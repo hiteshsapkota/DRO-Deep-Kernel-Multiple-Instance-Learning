@@ -25,6 +25,7 @@ python train_mil_sanghaitech_outlier.py split_no rep_no eta
 
 ## UCF-Crime Multimodal Dataset:
 To train the model for UCF-Crime Dataset, execute the following command:
+
 python train_mil_ucfcrime_multimodal.py rep_no eta
 
 Where; 
