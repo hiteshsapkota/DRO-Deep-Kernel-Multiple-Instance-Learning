@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Oct  1 19:47:08 2020
 
-@author: hiteshsapkota
-"""
 import mixing_params
 import torch
 import numpy as np
