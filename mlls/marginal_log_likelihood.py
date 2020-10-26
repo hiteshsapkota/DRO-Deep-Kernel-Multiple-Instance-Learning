@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Aug 30 17:53:29 2020
 
-@author: hiteshsapkota
-"""
 
 from models import GP
 from module import Module

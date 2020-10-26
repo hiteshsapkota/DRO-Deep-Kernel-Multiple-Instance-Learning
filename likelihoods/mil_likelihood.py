@@ -1,12 +1,4 @@
 
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Aug 30 15:58:47 2020
-
-@author: hiteshsapkota
-"""
 import warnings
 import torch
 from distributions import Distribution, MultitaskMultivariateNormal, base_distributions

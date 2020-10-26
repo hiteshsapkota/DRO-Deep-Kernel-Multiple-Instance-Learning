@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Aug 30 17:25:51 2020
-
-@author: hiteshsapkota
-"""
 
 import torch
 from .marginal_log_likelihood import MarginalLogLikelihood

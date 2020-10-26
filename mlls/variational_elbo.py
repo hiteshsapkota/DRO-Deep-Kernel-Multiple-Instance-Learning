@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Aug 30 17:05:32 2020
-
-@author: hiteshsapkota
-"""
 
 from ._approximate_mll import _ApproximateMarginalLogLikelihood
 
